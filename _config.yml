@@ -63,16 +63,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: landscape
 theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-# https://git.coding.net/sunhao/SooHoo.git
 deploy:
   type: git
-  repo: https://git.coding.net/sunhao/SooHoo.git
-  # repo: https://github.com/sunhao91/sunhao91.github.com.git
+  # repo: https://git.coding.net/sunhao/SooHoo.git
+  repo: https://github.com/sunhao91/sunhao91.github.com.git
   branch: master
-
-  
